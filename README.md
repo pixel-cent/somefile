@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## 资源分享站
 
-You can use the [editor on GitHub](https://github.com/pixel-cent/somefile/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+这里的视频外链是从技术上可用的，但是不保证权利与法律的问题。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 出了问题怎么办
 
-### Markdown
+技术上的问题能勉强尝试解决，权利和法律的问题本人慨不负责
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 此处的资源有什么用
 
-```markdown
-Syntax highlighted code block
+视频外链有多好用我就不说了。
 
-# Header 1
-## Header 2
-### Header 3
+## 哪些push可以合并
 
-- Bulleted
-- List
+只有上传新文件的请求能合并。
 
-1. Numbered
-2. List
+### 能上传资源吗？
 
-**Bold** and _Italic_ and `Code` text
+用你熟悉的push，新增一个视频文件即可。涩情低俗等直接不能过，谢谢配合。
+能上传B站梗那种，你懂得。
 
-[Link](url) and ![Image](src)
-```
+### 如何删除资源
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+不要直接提交一个删除资源的请求，而是应该采用在根目录创建"原文件名.原文件的扩展名.del.md"，以Markdown格式写明删除理由并证明。
 
-### Jekyll Themes
+直接拿出绿尸涵照片威胁的将被忽略。（**尤其是一堆xxs把蔡徐坤的绿尸涵图片原封不动地发过来，图都不P一下的，而且要删的视频跟蔡徐坤一毛钱关系都没有，真不知道这群xxs怎么想的。伪造绿尸涵本身不犯中国法律，但是伪造印章可以查阅治安管理处罚法。**）
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pixel-cent/somefile/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+心平气和写下原因和证明，我们会尽快处理。如果你真的是想解决问题的，就把态度放端正，谢谢配合。
 
-### Support or Contact
+如果是涩情低俗涉敏之类的，按照创建"原文件名.原文件的扩展名.del.md"的方式写明资源违规理由、出现位置及截图，我们会优先处理。
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+处理结果：由我们亲自删除文件，同时保留"原文件名.原文件的扩展名.del.md"文件起到杀鸡儆猴的效果。
+
